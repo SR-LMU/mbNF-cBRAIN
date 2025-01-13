@@ -1,2 +1,2 @@
 # mbNF-cBRAIN
-mindfulness based fMRI Neurofeedback
+Mindfulness-based fMRI Neurofeedback
